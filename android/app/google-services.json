@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176035079306",
+    "project_id": "latihan-auth-bfb04",
+    "storage_bucket": "latihan-auth-bfb04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176035079306:android:6c1921097c5055d34b3973",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task_bootcampsanber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176035079306-ojtvugo80bstkjol0escofbuhgc7uijj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrCd0lBXxgJoV4MvPsj6tUWD6Pd8JtNjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176035079306-ojtvugo80bstkjol0escofbuhgc7uijj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
